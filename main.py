@@ -3,7 +3,6 @@ from models.scikit_models import *
 from models.rnn_models import *
 from models.bert_models import *
 from models.bert_rnn_models import *
-from svm import *
 
 ft = fasttext.load_model('fasttext/cc.el.300.bin')
 
