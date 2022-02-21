@@ -106,7 +106,7 @@ def bert_gru_methods():
         # m_name = dataset_train[37:45]
         seq_len = 512
         target_seq_len = 16
-        batch_size = 4
+        batch_size = 64
         split = 0.9
         #
         tokens_text = tokenizer_method(df['text'], seq_len)
