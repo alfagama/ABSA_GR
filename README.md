@@ -9,6 +9,7 @@ Aspect-Based Sentiment Analysis is a specific category of classic Sentiment Anal
 
 ----------------------------------------------------
 **Code Structure:**:
+```
 .
 └── ABSA_GR
     ├── bert_arrays
@@ -39,3 +40,4 @@ Aspect-Based Sentiment Analysis is a specific category of classic Sentiment Anal
     │   └── utils.py
     ├── README.md
     └── main.py
+```
