@@ -57,6 +57,14 @@ Aspect-Based Sentiment Analysis is a specific category of classic Sentiment Anal
 **F1-Macro Results:**
 | | Original Dataset | Oversampled Dataset | Hybrid Dataset |
 |     :---      |     :---:      |     :---:      |     :---:      |
+| SVM  | 37.17%   | 56.93%     | 61.02%    |
+| MLP  | 42.13%   | 66.47%     | 67.71%    |
+| LSTM  | 41.55%   | 68.85%     | 66.58%    |
+| BiLSTM  | 39.28%   | 67.69%     | 67.28%    |
+| GRU | 38.96%   | 69.00%     | 68.77%    |
+| BiGRU  | 40.47%   | 67.13%     | 68.58%    |
+| GreekBERT NPT  | 43.10%   | 65.53%     | 66.45%    |
+| GreekBERT  | 51.69%   | 70.49%     | 71.72%    |
 | GreekBERT 3DL  | 51.73%   | 71.52%     | 72.79%    |
 | GreekBERT GRU  | 52.61%   | 72.13%     | 73.29%    |
 | GreekBERT S4L  | 53.00%   | 71.39%     | 74.38%    |
