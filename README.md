@@ -66,6 +66,6 @@ Aspect-Based Sentiment Analysis is a specific category of classic Sentiment Anal
 | GreekBERT NPT  | 43.10%   | 65.53%     | 66.45%    |
 | GreekBERT  | 51.69%   | 70.49%     | 71.72%    |
 | GreekBERT 3DL  | 51.73%   | 71.52%     | 72.79%    |
-| GreekBERT GRU  | 52.61%   | 72.13%     | 73.29%    |
+| GreekBERT GRU  | 52.61%   | **72.13%**     | 73.29%    |
 | GreekBERT S4L  | 53.00%   | 71.39%     | 74.38%    |
-| GreekBERT C4L  | 54.23%   | 71.67%     | 74.41%    |
+| GreekBERT C4L  | **54.23%**   | 71.67%     | **74.41%**    |
