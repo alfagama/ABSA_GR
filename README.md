@@ -48,3 +48,6 @@ Aspect-Based Sentiment Analysis is a specific category of classic Sentiment Anal
     ├── README.md
     └── main.py
 ```
+----------------------------------------------------
+**GreekBERT C4L Architecure:**
+![alt text](https://github.com/alfagama/ABSA_GR/tree/main/model_figures/model_BERTC4H.png?raw=true)
