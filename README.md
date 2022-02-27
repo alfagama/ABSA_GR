@@ -50,4 +50,11 @@ Aspect-Based Sentiment Analysis is a specific category of classic Sentiment Anal
 ```
 ----------------------------------------------------
 **GreekBERT C4L Architecure:**
-![alt text](https://github.com/alfagama/ABSA_GR/tree/main/model_figures/model_BERTC4H.png?raw=true)
+
+![model_BERTC4H](https://user-images.githubusercontent.com/48099515/155877497-dcfbf706-3382-4ab7-84f5-906f2d2f31aa.png)
+
+----------------------------------------------------
+**GreekBERT C4L Results:**
+| | Original Dataset | Oversampled Dataset | Hybrid Dataset |
+|     :---      |     :---:      |     :---:      |     :---:      |
+| F1-Macro  | 54.23%   | 71.67%     | 74.41%    |
